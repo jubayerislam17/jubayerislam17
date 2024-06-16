@@ -1,16 +1,58 @@
-## Hi there 👋
+<h1 align="center">Hello, I am Jubayer 👋</h1>
+<h3 align="center">I am a Computer Science engineer 💻 and photographer 📸</h3>
 
-<!--
-**jubayerislam17/jubayerislam17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/your-profile-photo.png" alt="Profile Photo" width="200" height="200">
+</p>
 
-Here are some ideas to get you started:
+Hello and welcome to my GitHub! With over eight years of experience as a data engineer, I have gained deep expertise in designing, building, and managing data pipelines and infrastructures. My work supports various analytical and business intelligence needs, with a solid mastery of a variety of technologies and tools, including but not limited to, SQL, Python, ETL frameworks, as well as big data technologies such as Hadoop and Spark.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My GitHub account hosts a range of projects and code examples that demonstrate my expertise in the field of data engineering. These projects not only showcase my skills in extracting, transforming, and loading data from various sources but also reflect my abilities in data modeling, visualization, and reporting.
+
+I am committed to continuous learning and growth, and I am open to collaborating with other professionals in the field. I invite you to join me on GitHub to explore my work, exchange ideas, and share knowledge.
+
+### 📫 Connect with me:
+
+- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jubayer-islam-42a408270/)
+- 
+Feel free to contact me if you have any questions or comments!
+
+---
+
+### 🌱 I am currently working on
+
+- Redesigning my old projects
+- Data engineering projects
+- Data analysis
+- DevOps projects
+
+### 🌿 I am currently learning
+
+- 🧠 Deep Learning 
+
+---
+
+### 🛠️ Technical Skills
+
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws)
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-333333?style=flat&logo=google-cloud)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![PostGIS](https://img.shields.io/badge/-PostGIS-333333?style=flat&logo=postgis)
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![Terraform](https://img.shields.io/badge/-Terraform-333333?style=flat&logo=terraform)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kubernetes)
+![Power BI](https://img.shields.io/badge/-Power%20BI-333333?style=flat&logo=power-bi)
+![Tableau](https://img.shields.io/badge/-Tableau-333333?style=flat&logo=tableau)
+
+---
+
+### 📂 Popular Repositories
+
+<a href="https://github.com/your-username/modern-data-pipeline">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=modern-data-pipeline&theme=dark" />
+</a>
