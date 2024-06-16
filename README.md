@@ -5,9 +5,9 @@
   <img src="https://avatars.githubusercontent.com/u/your-profile-photo.png" alt="Profile Photo" width="200" height="200">
 </p>
 
-Hello and welcome to my GitHub! With over eight years of experience as a data engineer, I have gained deep expertise in designing, building, and managing data pipelines and infrastructures. My work supports various analytical and business intelligence needs, with a solid mastery of a variety of technologies and tools, including but not limited to, SQL, Python, ETL frameworks, as well as big data technologies such as Hadoop and Spark.
+Hello and welcome to my GitHub! With over four years of experience as a computer science engineer, I have gained deep expertise in technologies and tools, including but not limited to, SQL, Python, ETL frameworks, as well as big data technologies such as Hadoop and Spark.
 
-My GitHub account hosts a range of projects and code examples that demonstrate my expertise in the field of data engineering. These projects not only showcase my skills in extracting, transforming, and loading data from various sources but also reflect my abilities in data modeling, visualization, and reporting.
+My GitHub account hosts a range of projects and code examples that demonstrate my expertise in the field. 
 
 I am committed to continuous learning and growth, and I am open to collaborating with other professionals in the field. I invite you to join me on GitHub to explore my work, exchange ideas, and share knowledge.
 
@@ -28,7 +28,7 @@ Feel free to contact me if you have any questions or comments!
 
 ### 🌿 I am currently learning
 
-- 🧠 Deep Learning 
+- 📊 Data Science
 
 ---
 
