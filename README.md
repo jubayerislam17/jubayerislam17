@@ -50,9 +50,3 @@ Feel free to contact me if you have any questions or comments!
 ![Tableau](https://img.shields.io/badge/-Tableau-333333?style=flat&logo=tableau)
 
 ---
-
-### 📂 Popular Repositories
-
-<a href="https://github.com/jubayerislam17/Vegetable-Classification-and-Quality-Assessment">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=modern-data-pipeline&theme=dark" />
-</a>
