@@ -1,9 +1,7 @@
 <h1 align="center">Hello, I am Jubayer 👋</h1>
 <h3 align="center">I am a Computer Science engineer 💻</h3>
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/your-profile-photo.png" alt="Profile Photo" width="200" height="200">
-</p>
+
 
 Hello and welcome to my GitHub!
 
